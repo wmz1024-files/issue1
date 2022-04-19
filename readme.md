@@ -9,4 +9,5 @@
 http://877771.xyz/ **issue号**
 例如 http://877771.xyz/1
 ## 🫴需要等待一会再进入吗？
-不需要，我们运用github api（也就是说咱得能访问github api）
+需要，我们运用github api（也就是说咱得能访问github api）,而且需要wmz1024查看没问题之后close才可以访问，没事 很快的  
+如果你关闭 那就代表自动放弃
